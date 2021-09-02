@@ -1,0 +1,10 @@
+.hidepassword{
+    position:absolute;
+    right: 1rem;
+    cursor: pointer;
+    opacity: 0.7;
+}
+
+.hidepassword:hover{
+    text-shadow: 0 0 5px red;
+}
